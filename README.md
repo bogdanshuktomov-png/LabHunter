@@ -41,7 +41,7 @@
   Reads `Client.txt` and daily **poelab** layouts to show your current room and fastest path (Fast / Darkshrine routes) directly in-game.
 - **Trade Helper & Run History**
   One-click Official PoE Trade search templates, session profit tracking (`c/h`), and CSV export.
-- **1-Hour Free Trial**
+- **1-hour every day free trial.**
   Try every feature for free before buying a key.
 
 ---
