@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # LabHunter — one keypress price-check all transfigured gems on Divine Font 
 
@@ -23,9 +23,10 @@
 ---
 
 ## Screenshots
-
-<!-- Просто перетащи свои скриншоты прямо в редактор GitHub вместо этих строк — GitHub сам загрузит картинки и вставит ссылки -->
-> *Drop your in-game Divine Font overlay & Gems tab screenshots here.*
+<img width="854" height="591" alt="asdasdasdsas" src="https://github.com/user-attachments/assets/9bcfa7c5-24d4-4b8a-b16c-3ddd06fa0625" />
+<img width="800" height="600" alt="234345456567567" src="https://github.com/user-attachments/assets/85a3cb43-3f9b-4592-9f57-7560b28a3328" />
+<img width="930" height="638" alt="23434545651167567" src="https://github.com/user-attachments/assets/1f83f28a-32d3-4d4a-a733-fd5cf9714e39" />
+<div align="center">
 
 ---
 
