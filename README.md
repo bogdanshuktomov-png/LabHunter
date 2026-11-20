@@ -1,18 +1,14 @@
-
-
-# LabHunter — one keypress price-check all transfigured gems on Divine Font 
+# LabHunter — One-Keypress Divine Font Price Checker for Path of Exile 1
 
 **Instant Transfigured Gem Price Checker, Color EV Calculator & Built-in Lab Compass for Path of Exile 1**
 
-[![Download LabHunter](https://img.shields.io/badge/Download-LabHunter.exe-2ea44f?style=for-the-badge&logo=windows)](https://github.com/bogdanshuktomov-png/labhunter/releases/latest)
+[![Download LabHunter](https://img.shields.io/badge/Download-LabHunter.exe-2ea44f?style=for-the-badge&logo=windows)](https://github.com/bogdanshuktomov-png/LabHunter/releases/latest)
 [![Boosty](https://img.shields.io/badge/Get_License_Key-Boosty-f15f2c?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/labhunter)
 [![Telegram](https://img.shields.io/badge/Support-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bagdasick)
 
 ![Game](https://img.shields.io/badge/Game-Path%20of%20Exile%201-c8a055)
 ![Platform](https://img.shields.io/badge/OS-Windows%2010%20%2F%2011-0078D6)
 ![Trial](https://img.shields.io/badge/Free%20Trial-1%20Hour-brightgreen)
-
-</div>
 
 ---
 
@@ -23,10 +19,9 @@
 ---
 
 ## Screenshots
-<img width="854" height="591" alt="asdasdasdsas" src="https://github.com/user-attachments/assets/9bcfa7c5-24d4-4b8a-b16c-3ddd06fa0625" />
-<img width="800" height="600" alt="234345456567567" src="https://github.com/user-attachments/assets/85a3cb43-3f9b-4592-9f57-7560b28a3328" />
-<img width="930" height="638" alt="23434545651167567" src="https://github.com/user-attachments/assets/1f83f28a-32d3-4d4a-a733-fd5cf9714e39" />
-<div align="center">
+<img width="854" height="591" alt="LabHunter Path of Exile 1 Divine Font Price Checker" src="https://github.com/user-attachments/assets/9bcfa7c5-24d4-4b8a-b16c-3ddd06fa0625" />
+<img width="800" height="600" alt="LabHunter Lite Transfigured Gems Overlay" src="https://github.com/user-attachments/assets/85a3cb43-3f9b-4592-9f57-7560b28a3328" />
+<img width="930" height="638" alt="PoE 1 Labyrinth Mini-HUD & Lab Compass Overlay" src="https://github.com/user-attachments/assets/1f83f28a-32d3-4d4a-a733-fd5cf9714e39" />
 
 ---
 
@@ -53,7 +48,7 @@
 
 ## Quick Start
 
-1. Download **`LabHunter.exe`** from the **[Latest Release](https://github.com/bogdanshuktomov-png/labhunter/releases/latest)**.
+1. Download **`LabHunter.exe`** from the **[Latest Release](https://github.com/bogdanshuktomov-png/LabHunter/releases/latest)**.
 2. Run `LabHunter.exe` on Windows 10/11.
    > *Note: Because the app is an indie PyInstaller build without a paid code-signing certificate, Windows SmartScreen may show a warning on first launch — click **More info → Run anyway**.*
 3. Open the **License** tab and start your **1-Hour Free Trial**.
